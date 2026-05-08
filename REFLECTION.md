@@ -287,12 +287,6 @@ Lab 22 cung cấp **hands-on experience hoàn chỉnh** về preference learning
 
 **Next**: áp dụng lên VN data, thử ORPO/SimPO/IPO variants.
 
----
-
-*Phản ánh được viết cho Lab 22 Track 3 Day 22 · Chương trình AICB VinUni · May 8, 2026*
-
-
----
 
 ## Điều ngạc nhiên nhất khi làm lab này
 
